@@ -11,6 +11,7 @@ const fs = require('fs');
 const prefix = "!";
 const prefix2 = "!!";
 const rateLimitVal = 5000;
+const rateLimitValMassRole = 15000;
 const staffArray=["Staff","Owner", "Deputy Owner", "Overseer", "Coordinator"];
 const pvmteacherArray=["PvM Host","Owner", "Deputy Owner", "Overseer", "Coordinator"];
 const mentionBypass = ["Staff","Owner", "Deputy Owner", "Overseer", "Clan Event Planner", "Royal-Bot","Community Manager", "PvM Host"];
