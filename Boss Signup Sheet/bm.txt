@@ -1,0 +1,19 @@
+```css
+Roles Required for Beastmaster Durzag:
+   Base Tanks: [2 Needed | BT/BU]:
+   Pet Tanks [2 Needed | pt1/3, pt2]
+   North Chargers [1 Needed | NC]:
+   DPSERS [5 Needed | DPS]:
+
+Notes and Recommendations:
+   Try to take on new roles each kill.
+   Bring minimum t80+ armour (Nex Gear Prefered, but not required)
+   Voice chat is recommended/Not Required, you can also jump in just to listen to our callouts.
+```
+__Please use these emojis to sign up if you are not a learner: __
+  Base Tank: <:BaseTankBT:374603162926972930>
+  Backup: <:BackupBU:374603225581617162> 
+  North Chargers: <:NorthChargersNC:374603371342200842> 
+  Pet Tank 1 and 3: <:pt13:374603471225225218> 
+  Pet Tank 2: <:pt2:374603457157660674> 
+  DPS: <:DPS:382972116363902977>
