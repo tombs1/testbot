@@ -1,0 +1,17 @@
+{
+  "name": "royalbot",
+  "version": "0.0.1",
+  "description": "Custom Royal Rascal Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RIP",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^0.2.5",
+    "discord-music-bot": "^2.3.0",
+    "discord.js": "^11.2.1",
+    "shutdown": "^0.3.0"
+  }
+}

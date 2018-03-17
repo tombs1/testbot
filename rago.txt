@@ -1,0 +1,18 @@
+```css
+Roles for Vorago:
+
+  Base Tank: [1 Needed | Base]
+  Bomb Tank:[1 Needed | BT]
+  Top Lure/Voke 5:[1 Needed | TL5]
+  DPS:[2 Recommended | DPS]
+
+ Notes and Recommendations:
+  •Try to take on new roles each kill.
+  •Bring minimum t80 armour (Nex Gear Prefered, but not required)
+  •Voice chat is recommended/Not Required, you can also jump in just to listen to our callouts.
+```
+__Please use these emojis to sign up:__
+  Base: <:Baserago:393223564074942464> 
+  Bomb Tank: <:BombTank:393222135910367232>   
+  TL5: <:TL5rago:393223587424894978> 
+  DPS: <:DPS:382972116363902977>
